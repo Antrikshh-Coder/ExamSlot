@@ -5,9 +5,6 @@
 
 ### EXECUTIVE SUMMARY & CAPSTONE PROJECT INFORMATION
 * **Project Name**: ExamSlot – Examination Timetable and Seating Plan Generator
-* **Degree / Course**: Bachelor of Technology (B.Tech) in Computer Science & Engineering
-* **Subject Domain**: Software Development, Software Project Management, & Quality Assurance
-* **Academic Institution**: Autonomous Engineering College
 
 ---
 
@@ -39,9 +36,7 @@
 
 ### 1. COVER PAGE & METADATA
 * **Title**: ExamSlot: An Automated Examination Timetable, Capacity-Constrained Seating Plan, and Invigilator Management SaaS Platform
-* **Submitted By**: Candidate B.Tech Computer Science Student
-* **Academic Year**: 2026-2027
-* **Department**: Department of Computer Science & Engineering
+* **Submitted By**: Antriksh Manwadkar
 
 ---
 
